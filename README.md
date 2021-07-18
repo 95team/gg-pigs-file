@@ -1,2 +1,2 @@
-# gg-pigs-api-file
+# gg-pigs-file
 This is a static file server for gg-pigs
